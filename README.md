@@ -27,27 +27,30 @@ image: ""
 ---
 <!-- This is an html comment and this won't appear in the rendered page. You are now editing the "content" area, the core of your description. Everything that you can do in markdown is allowed below. We added a couple of comments to guide your through documenting your progress. -->
 
+# Detecting ADHD through fMRI signals using machine learning classification models
 ## Project definition
 
 ### Background
 
 Attention-Deficit/Hyperactivity Disorder, or ADHD, is characterized by inattention, impulsivity and hyperactivity. Its prevalence in Argentina is 4% in children and adolescents. It is still diagnosed using subjective clinical criteria, which are often difficult to evaluate. However, artificial intelligence (AI) techniques hold potential for identifying neuroimaging biomarkers that could facilitate the diagnosis of ADHD. Our objective is to develop machine learning classification models to detect ADHD through the analysis of resting state functional MRI (rs-fMRI) signals.
 
+According to previous studies (Stripada et al., 2014), ADHD brains at rest show altered connectivity between key nodes of the Ventral Attention Network (VAN) and the Default Mode Network (DMN), which are involved in lapses of attention. The DMN facilitates internally focused attention during tasks like recalling personal memories, planning for the future, and processing self-referential information. The VAN is crucial for monitoring the significance of external stimuli and for managing the switch between the DMN and task-oriented cognitive modes.
+
 ### Tools
 
 Our project used the following tools:
 
-**Bash Terminal**: Employed for command-line operations and scripting.
+* **Bash Terminal**: Employed for command-line operations and scripting.
 
-**Git and GitHub**: Managed version control, shared workspace, and repositories.
+* **Git and GitHub**: Managed version control, shared workspace, and repositories.
 
-**Jupyter Notebook**: Implemented the code within this interactive environment.
+* **Jupyter Notebook**: Implemented the code within this interactive environment.
 
-**Python**:
-* Nilearn: to facilitate the processing and visualization of neuroimaging data.
-* Matplotlib and Seaborn: for data visualization.
-* Numpy and Pandas: for data manipulation and analysis.
-* AAL atlas: For brain parcellation.
+* **Python**:
+  * **Nilearn**: to facilitate the processing and visualization of neuroimaging data.
+  * **Matplotlib and Seaborn**: for data visualization.
+  * **Numpy and Pandas**: for data manipulation and analysis.
+  * **AAL atlas**: For brain parcellation.
 
 
 ### Data
@@ -93,9 +96,12 @@ At the end of this project, the following files will be made available:
 
 ## Conclusion and acknowledgement
 ![HUMAI LOGO](https://github.com/fcovelli/project-readme/assets/169564890/ffca62e3-ac11-4409-a444-0210ef44e80a)
+![brainhack-800x450](https://github.com/fcovelli/project-readme/assets/169564890/ad83bf31-f1f4-49d5-ac2a-eb30b1cf39a3)
 
 ## References
 Zhu CZ, Zang YF, Cao QJ, Yan CG, He Y, Jiang TZ, Sui MQ, Wang YF. Fisher discriminative analysis of resting-state brain function for attention-deficit/hyperactivity disorder. Neuroimage. 2008 Mar 1;40(1):110-20. doi: 10.1016/j.neuroimage.2007.11.029. Epub 2007 Dec 3. PMID: 18191584.
+
+Buckner RL, Andrews-Hanna JR, Schacter DL. The brain's default network: anatomy, function, and relevance to disease. Ann N Y Acad Sci. 2008 Mar;1124:1-38. doi: 10.1196/annals.1440.011. PMID: 18400922.
 
 Yeo BT, Krienen FM, Sepulcre J, Sabuncu MR, Lashkari D, Hollinshead M, Roffman JL, Smoller JW, Zöllei L, Polimeni JR, Fischl B, Liu H, Buckner RL. The organization of the human cerebral cortex estimated by intrinsic functional connectivity. J Neurophysiol. 2011 Sep;106(3):1125-65. doi: 10.1152/jn.00338.2011. Epub 2011 Jun 8. PMID: 21653723; PMCID: PMC3174820.
 
