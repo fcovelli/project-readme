@@ -34,8 +34,6 @@ image: ""
 
 Attention-Deficit/Hyperactivity Disorder, or ADHD, is characterized by inattention, impulsivity and hyperactivity. Its prevalence in Argentina is 4% in children and adolescents. It is still diagnosed using subjective clinical criteria, which are often difficult to evaluate. However, artificial intelligence (AI) techniques hold potential for identifying neuroimaging biomarkers that could facilitate the diagnosis of ADHD. Our objective is to develop machine learning classification models to detect ADHD through the analysis of resting state functional MRI (rs-fMRI) signals.
 
-According to previous studies (Stripada et al., 2014), ADHD brains at rest show altered connectivity between key nodes of the Ventral Attention Network (VAN) and the Default Mode Network (DMN), which are involved in lapses of attention. The DMN facilitates internally focused attention during tasks like recalling personal memories, planning for the future, and processing self-referential information. The VAN is crucial for monitoring the significance of external stimuli and for managing the switch between the DMN and task-oriented cognitive modes. Hence, we decided to study this regions of interest (ROIs) together with subcortical structures mentiones in the reviewed literature.
-
 ### Tools
 
 Our project used the following tools:
