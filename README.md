@@ -19,7 +19,7 @@ tags: [adhd, fmri, brainhack]
 
 # Summarize your project in < ~75 words. This description will appear at the top of your page and on the list page with other projects..
 
-summary: "Each project repository should have a markdown file explaining the background and objectives of the project, as well as a summary of the results, and links to the different deliverables of the project. Project reports are incorporated in the BHS [website](https://psy6983.brainhackmtl.org/project)."
+summary: "."
 
 # If you want to add a cover image (listpage and image in the right), add it to your directory and indicate the name
 # below with the extension.
@@ -51,8 +51,12 @@ Our project used the following tools:
 
 
 ### Data
-
+CITAR EL REPO
 The ADHD-200 Sample is a collaborative effort involving eight international imaging sites that have openly shared neuroimaging data from 362 children and adolescents diagnosed with ADHD, along with 585 typically developing controls. This collection includes 947 datasets containing both structural and resting-state fMRI data, as well as phenotypic information from the subjects.
+
+In 2011, the ADHD-200 Consortium organized a competition aimed at identifying biomarkers of ADHD USING the ADHD-200 dataset. The Preprocessed Connectomes Project (PCP) emerged as an effort to broaden the competition's accessibility to a wider audience of researchers by preprocessing the data and openly sharing the outcomes. The data provided by this initiative has led to several publications.
+
+Pierre Bellec, Carlton Chu, François Chouinard-Decorte, Yassine Benhajali, Daniel S. Margulies, R. Cameron Craddock (2017). The Neuro Bureau ADHD-200 Preprocessed repository. NeuroImage, 144, Part B, pp. 275 - 286. doi:10.1016/j.neuroimage.2016.06.034
 
 ### Deliverables
 
@@ -70,8 +74,8 @@ At the end of this project, the following files will be made available:
 
 ### Tools I learned during this project
 
- * Project management
- * Git and Github workflow
+* Project management
+* Git and Github workflow
 * Python for data analysis
 * Machine learning basics
 * Introduction to deep learning
@@ -82,22 +86,15 @@ At the end of this project, the following files will be made available:
 
 #### Deliverable 1: 
 
-#### Deliverable 2: project gallery
+#### Deliverable 2: 
 
-##### ECG pupilometry pipeline by Marce Kauffmann
+#####
 
-The repository of this project can be found [here](https://github.com/mtl-brainhack-school-2019/ecg_pupillometry_pipeline_kaufmann). The objective was to create a processing pipeline for ECG and pupillometry data. The motivation behind this task is that Marcel's lab (MIST Lab @ Polytechnique Montreal) was conducting a Human-Robot-Interaction user study. The repo features:
- * a [video introduction](http://www.youtube.com/watch/8ZVCNeX42_A) to the project.
- * a presentation [made in a jupyter notebook](https://github.com/mtl-brainhack-school-2019/ecg_pupillometry_pipeline_kaufmann/blob/master/BrainHackPresentation.ipynb) on the results of the project.
- * Notebooks for all analyses.
- * Detailed requirements files, making it easy for others to replicate the environment of the notebook.
- * An overview of the results in the markdown document.
-
-
-#### Deliverable 3: Instructions
 
 ## Conclusion and acknowledgement
-# References
+![HUMAI LOGO](https://github.com/fcovelli/project-readme/assets/169564890/ffca62e3-ac11-4409-a444-0210ef44e80a)
+
+## References
 Zhu CZ, Zang YF, Cao QJ, Yan CG, He Y, Jiang TZ, Sui MQ, Wang YF. Fisher discriminative analysis of resting-state brain function for attention-deficit/hyperactivity disorder. Neuroimage. 2008 Mar 1;40(1):110-20. doi: 10.1016/j.neuroimage.2007.11.029. Epub 2007 Dec 3. PMID: 18191584.
 
 Yeo BT, Krienen FM, Sepulcre J, Sabuncu MR, Lashkari D, Hollinshead M, Roffman JL, Smoller JW, Zöllei L, Polimeni JR, Fischl B, Liu H, Buckner RL. The organization of the human cerebral cortex estimated by intrinsic functional connectivity. J Neurophysiol. 2011 Sep;106(3):1125-65. doi: 10.1152/jn.00338.2011. Epub 2011 Jun 8. PMID: 21653723; PMCID: PMC3174820.
