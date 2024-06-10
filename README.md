@@ -54,6 +54,8 @@ The ADHD-200 Sample is a collaborative effort involving eight international imag
 
 In 2011, the ADHD-200 Consortium organized a competition aimed at identifying biomarkers of ADHD USING the ADHD-200 dataset. The Preprocessed Connectomes Project (PCP) emerged as an effort to broaden the competition's accessibility to a wider audience of researchers by preprocessing the data and openly sharing the outcomes. The data provided by this initiative has led to several publications.
 
+... We ended up with 820 subjects: 445 patients without ADHD and 375 patients with ADHD.
+
 Pierre Bellec, Carlton Chu, François Chouinard-Decorte, Yassine Benhajali, Daniel S. Margulies, R. Cameron Craddock (2017). The Neuro Bureau ADHD-200 Preprocessed repository. NeuroImage, 144, Part B, pp. 275 - 286. doi:10.1016/j.neuroimage.2016.06.034
 
 ### Deliverables
