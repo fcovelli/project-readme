@@ -10,9 +10,6 @@ names: [Agustín, Ezequiel, Francisco]
 # Your project GitHub repository URL
 github_repo: https://github.com/AgustinNR/BrainHack-BsAs-Humai-Team1
 
-# If you are working on a project that has website, indicate the full url including "https://" below or leave it empty.
-website:
-
 # List +- 4 keywords that best describe your project within []. Note that the project summary also involves a number of key words. Those are listed on top of the [github repository](https://github.com/PSY6983-2021/project_template), click `manage topics`.
 # Please only lowercase letters
 tags: [adhd, fmri, brainhack]
