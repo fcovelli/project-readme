@@ -93,7 +93,6 @@ At the end of this project, the following files will be made available:
 
 ## Conclusion and acknowledgement
 ![HUMAI LOGO](https://github.com/fcovelli/project-readme/assets/169564890/ffca62e3-ac11-4409-a444-0210ef44e80a)
-![brainhack-800x450](https://github.com/fcovelli/project-readme/assets/169564890/ad83bf31-f1f4-49d5-ac2a-eb30b1cf39a3)
 
 ## References
 Zhu CZ, Zang YF, Cao QJ, Yan CG, He Y, Jiang TZ, Sui MQ, Wang YF. Fisher discriminative analysis of resting-state brain function for attention-deficit/hyperactivity disorder. Neuroimage. 2008 Mar 1;40(1):110-20. doi: 10.1016/j.neuroimage.2007.11.029. Epub 2007 Dec 3. PMID: 18191584.
