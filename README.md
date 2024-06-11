@@ -48,12 +48,11 @@ Our project used the following tools:
 
 
 ### Data
-CITAR EL REPO
 The ADHD-200 Sample is a collaborative effort involving eight international imaging sites that have openly shared neuroimaging data from 362 children and adolescents diagnosed with ADHD, along with 585 controls. This collection includes 947 datasets containing both structural and resting state fMRI data, as well as phenotypic information from the subjects.
 
 In 2011, the ADHD-200 Consortium organized a competition aimed at identifying biomarkers of ADHD USING the ADHD-200 dataset. The Preprocessed Connectomes Project (PCP) emerged as an effort to broaden the competition's accessibility to a wider audience of researchers by preprocessing the data and openly sharing the outcomes. The data provided by this initiative has led to several publications.
 
-... HABÍA VALORES NULOS? We ended up with 820 subjects: 445 patients without ADHD and 375 patients with ADHD.
+After dataset cleaning, we ended up with 820 subjects: 445 patients without ADHD and 375 patients with ADHD.
 
 Pierre Bellec, Carlton Chu, François Chouinard-Decorte, Yassine Benhajali, Daniel S. Margulies, R. Cameron Craddock (2017). The Neuro Bureau ADHD-200 Preprocessed repository. NeuroImage, 144, Part B, pp. 275 - 286. doi:10.1016/j.neuroimage.2016.06.034
 
