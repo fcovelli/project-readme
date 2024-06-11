@@ -74,9 +74,9 @@ VER DE EJEMPLO https://school-brainhack.github.io/project/using_a_machine_learni
 ### Tools I learned during this project
 
 * Project management
-* Git and Github workflow
+* Git and Github
 * Python for data analysis
-* Machine learning basics
+* Machine learning
 * Introduction to deep learning
 * Functional connectivity in fMRI
  
