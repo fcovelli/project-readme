@@ -5,7 +5,7 @@ date: "2024-06-14" # Date you first upload your project.
 title: "Detecting ADHD through fMRI signals using machine learning classification models"
 
 # List the names of the collaborators within the [ ].
-names: [Agustín, Ezequiel, Francisco]
+names: [Agustín Rodriguez, Ezequiel Sirne, Francisco Covelli]
 
 # Your project GitHub repository URL
 github_repo: https://github.com/AgustinNR/BrainHack-BsAs-Humai-Team1
