@@ -48,6 +48,8 @@ Our project used the following tools:
 
  * **MRIcroGL**: Allows us to view 2D slices and renderings of our brain imaging data.
 
+<img src="https://raw.githubusercontent.com/fcovelli/project-readme/main/Estructural%20MRI%20%2B%20AAL.png" alt="ATLAS" width="600" height="500">
+
 
 ### Data
 The ADHD-200 Sample is a collaborative effort involving eight international imaging sites that have openly shared neuroimaging data from 362 children and adolescents diagnosed with ADHD, along with 585 controls. This collection includes 947 datasets containing both structural and resting state fMRI data, as well as phenotypic information from the subjects.
