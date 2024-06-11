@@ -44,11 +44,14 @@ Our project used the following tools:
   * **Nilearn**: To facilitate the processing and visualization of neuroimaging data.
   * **Matplotlib and Seaborn**: For data visualization.
   * **Numpy and Pandas**: For data manipulation and analysis.
-  * **AAL atlas**: For brain parcellation.
-
+ 
  * **MRIcroGL**: Allows us to view 2D slices and renderings of our brain imaging data.
 
-<img src="https://raw.githubusercontent.com/fcovelli/project-readme/main/Estructural%20MRI%20%2B%20AAL.png" alt="ATLAS" width="600" height="500">
+   <img src="https://raw.githubusercontent.com/fcovelli/project-readme/main/Estructural%20MRI%20sin%20atlas.png" alt="ATLAS" width="450" height="508">
+
+ * **AAL atlas**: For brain parcellation.
+
+   <img src="https://raw.githubusercontent.com/fcovelli/project-readme/main/Estructural%20MRI%20%2B%20AAL%202.png" alt="ATLAS" width="602" height="508">
 
 
 ### Data
