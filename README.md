@@ -12,11 +12,11 @@ github_repo: https://github.com/AgustinNR/BrainHack-BsAs-Humai-Team1
 
 # List +- 4 keywords that best describe your project within []. Note that the project summary also involves a number of key words. Those are listed on top of the [github repository](https://github.com/PSY6983-2021/project_template), click `manage topics`.
 # Please only lowercase letters
-tags: [adhd, fmri]
+tags: [adhd, fmri, machine-learning]
 
 # Summarize your project in < ~75 words. This description will appear at the top of your page and on the list page with other projects..
 
-summary: "."
+summary: "We used the ADHD-200 Sample dataset to implement various machine learning classification models aimed at diagnosing ADHD through resting-state fMRI signals."
 
 # If you want to add a cover image (listpage and image in the right), add it to your directory and indicate the name
 # below with the extension.
@@ -24,7 +24,6 @@ image: ""
 ---
 <!-- This is an html comment and this won't appear in the rendered page. You are now editing the "content" area, the core of your description. Everything that you can do in markdown is allowed below. We added a couple of comments to guide your through documenting your progress. -->
 
-# Detecting ADHD through fMRI signals using machine learning classification models
 ## Project definition
 
 ### Background
@@ -35,16 +34,16 @@ Attention-Deficit/Hyperactivity Disorder, or ADHD, is characterized by inattenti
 
 Our project used the following tools:
 
-* **Bash Terminal**: Employed for command-line operations and scripting.
+* **Bash Terminal**: Used for command-line operations and scripting.
 
-* **Git and GitHub**: Managed version control, shared workspace, and repositories.
+* **Git and GitHub**: For version control, learn to use a shared workspace, and repositories.
 
-* **Jupyter Notebook**: Implemented the code within this interactive environment.
+* **Jupyter Notebook**: We implemented the code within this interactive environment.
 
 * **Python**:
-  * **Nilearn**: to facilitate the processing and visualization of neuroimaging data.
-  * **Matplotlib and Seaborn**: for data visualization.
-  * **Numpy and Pandas**: for data manipulation and analysis.
+  * **Nilearn**: To facilitate the processing and visualization of neuroimaging data.
+  * **Matplotlib and Seaborn**: For data visualization.
+  * **Numpy and Pandas**: For data manipulation and analysis.
   * **AAL atlas**: For brain parcellation.
 
 
@@ -68,7 +67,7 @@ At the end of this project, the following files will be made available:
 
 
 ## Results
-
+VER DE EJEMPLO https://school-brainhack.github.io/project/using_a_machine_learning_model_trained_on_functional_connectivity_patterns_to_predict_adhd/
 ### Progress overview
 .
 
