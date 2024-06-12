@@ -85,9 +85,11 @@ VER DE EJEMPLO https://school-brainhack.github.io/project/using_a_machine_learni
 * Project management
 * Git and Github
 * Python for data analysis
-* Machine learning
+* Introduction to Machine learning & Machine learning for neuroimaging
 * Introduction to deep learning
 * Functional connectivity in fMRI
+* Functional parcellations in fMRI
+* The Brain Imaging Data Structure (BIDS) ecosystem
  
 
 ### Results
@@ -100,6 +102,10 @@ VER DE EJEMPLO https://school-brainhack.github.io/project/using_a_machine_learni
 
 
 ## Conclusion and acknowledgement
+There are many ways to expand and improve this project, and we are excited to explore them.
+
+Finally, we would like to express our gratitude to our teaching assistants from Humai, Buenos Aires, who have supported us from day one and generously shared their diverse expertise in neuroscience and computer science.
+
 <img src="https://github.com/fcovelli/project-readme/assets/169564890/ffca62e3-ac11-4409-a444-0210ef44e80a" alt="HUMAI LOGO" width="200" height="200">
 
 
@@ -117,8 +123,6 @@ Sripada C, Kessler D, Fang Y, Welsh RC, Prem Kumar K, Angstadt M. Disrupted netw
 Bellec P, Chu C, Chouinard-Decorte F, Benhajali Y, Margulies DS, Craddock RC. The Neuro Bureau ADHD-200 Preprocessed repository. Neuroimage. 2017 Jan;144(Pt B):275-286. doi: 10.1016/j.neuroimage.2016.06.034. Epub 2016 Jul 15. PMID: 27423255.
 
 Damiani S, Tarchi L, Scalabrini A, Marini S, Provenzani U, Rocchetti M, Oliva F, Politi P. Beneath the surface: hyper-connectivity between caudate and salience regions in ADHD fMRI at rest. Eur Child Adolesc Psychiatry. 2021 Apr;30(4):619-631. doi: 10.1007/s00787-020-01545-0. Epub 2020 May 8. PMID: 32385695.
-
-Capisano Cáceres, Patricia Gabriela (2020) “Hablemos de TDAH” proyecto de intervención :conocimiento y abordajes del TDAH en la escuela destinado a los docentes del ciclo básico. Universidad Católica de Córdoba.
 
 Hroncich, Camila. “¿Qué sabemos de TDAH?” CONICET, 12 January 2023, https://www.conicet.gov.ar/que-sabemos-de-tdah/. 
 
