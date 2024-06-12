@@ -45,11 +45,11 @@ Our project used the following tools:
   * **Matplotlib and Seaborn**: For data visualization.
   * **Numpy and Pandas**: For data manipulation and analysis.
  
- * **MRIcroGL**: Allows us to view 2D slices and renderings of our brain imaging data.
+ * **MRIcroGL**: Allows us to view 2D slices and renderings of our brain imaging data, both for structural and for functional MRI.
 
    <img src="https://raw.githubusercontent.com/fcovelli/project-readme/main/Estructural%20MRI%20sin%20atlas.png" alt="ATLAS" width="450" height="508">
 
- * **AAL atlas**: For brain parcellation.
+ * **AAL atlas**: For an anatomic brain parcellation.
 
    <img src="https://raw.githubusercontent.com/fcovelli/project-readme/main/Estructural%20MRI%20%2B%20AAL%202.png" alt="ATLAS" width="602" height="508">
 
