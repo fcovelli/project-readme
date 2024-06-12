@@ -15,13 +15,16 @@ github_repo: https://github.com/AgustinNR/BrainHack-BsAs-Humai-Team1
 tags: [adhd, fmri, machine-learning]
 
 # Summarize your project in < ~75 words. This description will appear at the top of your page and on the list page with other projects..
-
 summary: "We used the ADHD-200 Sample dataset to implement various machine learning classification models aimed at diagnosing ADHD through resting-state fMRI signals."
 
 # If you want to add a cover image (listpage and image in the right), add it to your directory and indicate the name
 # below with the extension.
-image: ""
+image: "[TDAH PORTADA.png](https://raw.githubusercontent.com/fcovelli/project-readme/main/TDAH%20PORTADA.png)"
 ---
+
+<img src="https://raw.githubusercontent.com/fcovelli/project-readme/main/TDAH%20PORTADA.png" alt="Cover Image" width="500"/>
+
+
 <!-- This is an html comment and this won't appear in the rendered page. You are now editing the "content" area, the core of your description. Everything that you can do in markdown is allowed below. We added a couple of comments to guide your through documenting your progress. -->
 
 ## Project definition
@@ -51,7 +54,7 @@ Our project used the following tools:
 
  * **AAL atlas**: For an anatomic brain parcellation.
 
-   <img src="https://raw.githubusercontent.com/fcovelli/project-readme/main/Estructural%20MRI%20%2B%20AAL%202.png" alt="ATLAS" width="602" height="508">
+   <img src="https://raw.githubusercontent.com/fcovelli/project-readme/main/Estructural%20MRI%20%2B%20AAL%202.png" alt="ATLAS" width="450" height="452">
 
 
 ### Data
