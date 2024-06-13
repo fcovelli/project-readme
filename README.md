@@ -15,7 +15,7 @@ github_repo: https://github.com/AgustinNR/BrainHack-BsAs-Humai-Team1
 tags: [adhd, fmri, machine-learning]
 
 # Summarize your project in < ~75 words. This description will appear at the top of your page and on the list page with other projects..
-summary: "We used the ADHD-200 Sample dataset to implement various machine learning classification models aimed at diagnosing ADHD through resting-state fMRI signals."
+summary: "We used the ADHD-200 Sample dataset to implement various machine learning classification models, aimed at diagnosing ADHD through resting-state fMRI signals."
 
 # If you want to add a cover image (listpage and image in the right), add it to your directory and indicate the name
 # below with the extension.
