@@ -101,7 +101,7 @@ VER DE EJEMPLO https://school-brainhack.github.io/project/using_a_machine_learni
 * The Cingulum also appears repeatedly, indicating its relevance in connectivity differences for ADHD.
 * The Amygdala connectivity to the Cingulum (both Left and Right) highlights potential emotional regulation and cognitive control variations in ADHD.
 
-The importance values are relatively close, ranging approximately from 0.004 to 0.006. This indicates that while some connections are slightly more influential, many features are comparably important in distinguishing ADHD from controls in resting-state fMRI. These identified ROIs and their connectivity patterns could be used for developing diagnostic tools.
+The importance values are relatively close, ranging approximately from 0.004 to 0.006. This indicates that while some connections are slightly more influential, many features are comparably important in distinguishing ADHD from controls in resting-state fMRI. These identified ROIs and their connectivity patterns could be further studied to develop diagnostic methods.
 
 
 #####
