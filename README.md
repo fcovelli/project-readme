@@ -108,7 +108,7 @@ The importance values are relatively close, ranging approximately from 0.004 to 
 
 
 ## Conclusion and acknowledgement
-There are many ways to expand and improve this project, and we are excited to explore them.
+The identified ROIs and their connectivity patterns could be further studied to develop diagnostic methods.There are many ways to expand and improve this project, and we are excited to explore them.
 
 Finally, we would like to express our gratitude to our teaching assistants from Humai, Buenos Aires, who have supported us from day one and generously shared their diverse expertise in neuroscience and computer science.
 
