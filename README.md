@@ -58,6 +58,9 @@ Our project used the following tools:
 
 
 ### Data
+
+OPCIÓN A
+
 The ADHD-200 Sample is a collaborative effort involving eight international imaging sites that have openly shared neuroimaging data from 362 children and adolescents diagnosed with ADHD, along with 585 controls. This collection includes 947 datasets containing both structural and resting state fMRI data, as well as phenotypic information from the subjects.
 
 In 2011, the ADHD-200 Consortium organized a competition aimed at identifying biomarkers of ADHD USING the ADHD-200 dataset. The Preprocessed Connectomes Project (PCP) emerged as an effort to broaden the competition's accessibility to a wider audience of researchers by preprocessing the data and openly sharing the outcomes. The data provided by this initiative has led to several publications.
@@ -65,6 +68,20 @@ In 2011, the ADHD-200 Consortium organized a competition aimed at identifying bi
 After dataset cleaning, we ended up with 820 subjects: 445 patients without ADHD and 375 patients with ADHD.
 
 Pierre Bellec, Carlton Chu, François Chouinard-Decorte, Yassine Benhajali, Daniel S. Margulies, R. Cameron Craddock (2017). The Neuro Bureau ADHD-200 Preprocessed repository. NeuroImage, 144, Part B, pp. 275 - 286. doi:10.1016/j.neuroimage.2016.06.034
+
+OPCION B
+
+ADHD-200 Preprocessed Sample:
+
+Prepared by the collaboration of 8 international neuroimaging institutes, who held a competition in 2011, to identify ADHD biomarkers.
+
+Composition:
+* 947 children and adolescents
+* 362 diagnosed with ADHD
+* 585 typically developing controls
+
+In order to make the competition accessible to a broader range of researchers, the data was preprocessed and shared, what resulted in several publications, MS theses, PhD dissertations and even patents.
+
 
 ### Deliverables
 
@@ -78,7 +95,7 @@ At the end of this project, the following files will be made available:
 ## Results
 VER DE EJEMPLO https://school-brainhack.github.io/project/using_a_machine_learning_model_trained_on_functional_connectivity_patterns_to_predict_adhd/
 ### Progress overview
-.
+
 
 ### Tools I learned during this project
 
@@ -94,9 +111,24 @@ VER DE EJEMPLO https://school-brainhack.github.io/project/using_a_machine_learni
 
 ### Results
 
+**What we  extracted from the dataset**:
+
+<img src="https://raw.githubusercontent.com/fcovelli/project-readme/main/BOLD%20intensity.png" alt="Cover Image" width="400"/>
+
+Each time series represents the intensity of the BOLD signal of every ROI (Region of Interest)
+along the rs-fRMI.
+
 #### Deliverable 1: 
 
-#### Deliverable 2: 
+In order to create a connectivity matrix, we evaluated the Pearson Correlation between each of these signals.
+
+<img src="https://raw.githubusercontent.com/fcovelli/project-readme/main/PCM.png" alt="Matrix correlation" width="400"/>
+
+
+
+#### Deliverable X: 
+<img src="https://raw.githubusercontent.com/fcovelli/project-readme/main/feature_importance2.jpeg" alt="feature importance" width="600"/>
+
 * Temporal Pole and Frontal regions appear to be recurrently significant in feature importance, suggesting a key role in ADHD.
 * The Cingulum also appears repeatedly, indicating its relevance in connectivity differences for ADHD.
 * The Amygdala connectivity to the Cingulum (both Left and Right) highlights potential emotional regulation and cognitive control variations in ADHD.
