@@ -52,6 +52,10 @@ Our project used the following tools:
 
    <img src="https://raw.githubusercontent.com/fcovelli/project-readme/main/Estructural%20MRI%20sin%20atlas.png" alt="ATLAS" width="450" height="508">
 
+<p align="center">
+  <img src="https://github.com/fcovelli/project-readme/raw/main/GIF%20BOLD.gif" alt="GIF de ejemplo" width="400" height="auto">
+</p>
+
  * **AAL atlas**: For an anatomic brain parcellation.
 
    <img src="https://raw.githubusercontent.com/fcovelli/project-readme/main/Estructural%20MRI%20%2B%20AAL%202.png" alt="ATLAS" width="450" height="452">
